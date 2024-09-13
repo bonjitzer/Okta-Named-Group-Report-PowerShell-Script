@@ -1,4 +1,4 @@
-# Okta-Named-Group-Report-Script
+# Okta-Named-Group-Report-PowerShell-Script
 Author: john.bitzer@proton.me
     Purpose: To provide a report of specific named Okta groups and the users within them.
 
