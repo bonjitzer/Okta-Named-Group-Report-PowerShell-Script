@@ -1,8 +1,8 @@
 # Okta-Named-Group-Report-PowerShell-Script
-## Author: john.bitzer@proton.me
-## Purpose: To provide a report of specific named Okta groups and the users within them.
+### Author: john.bitzer@proton.me
+### Purpose: To provide a report of specific named Okta groups and the users within them.
 
-    ### Instructions:
+#### Instructions:
     This script assumes that you have your Okta API key(s) encrypted and stored 
     in a file for retrieval using something like the following PS command:
     "OktaApiKey123" | ConvertTo-SecureString -AsPlainText -Force | ConvertFrom-SecureString | Out-File "C:\Temp\OktaApiKey.txt"
